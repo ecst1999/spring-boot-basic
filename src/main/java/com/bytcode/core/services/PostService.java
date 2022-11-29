@@ -5,5 +5,7 @@ import com.bytcode.core.model.Post;
 
 
 public interface PostService {
-	public List<Post> validationId(List<Post> posts);
+	public List<Post> validation(List<Post> posts) throws NullPointerException;
+	
+	public void addClass(Class clazz);
 }

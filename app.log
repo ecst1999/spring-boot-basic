@@ -1,0 +1,191 @@
+2022-11-29 13:09:17.416  INFO 4084 --- [main] com.bytcode.core.CursoSprintApplication  : Starting CursoSprintApplication using Java 17.0.4.1 on DESKTOP-I3M3Q3E with PID 4084 (C:\Users\Steve\Documents\Spring Boot\CursoSprint\target\classes started by Steve in C:\Users\Steve\Documents\Spring Boot\CursoSprint)
+2022-11-29 13:09:17.427  INFO 4084 --- [main] com.bytcode.core.CursoSprintApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-29 13:09:18.974  INFO 4084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2022-11-29 13:09:18.995  INFO 4084 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-29 13:09:18.996  INFO 4084 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-29 13:09:19.187  INFO 4084 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-29 13:09:19.187  INFO 4084 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1616 ms
+2022-11-29 13:09:19.572  INFO 4084 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-11-29 13:09:19.901  INFO 4084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2022-11-29 13:09:19.918  INFO 4084 --- [main] com.bytcode.core.CursoSprintApplication  : Started CursoSprintApplication in 3.255 seconds (JVM running for 4.294)
+2022-11-29 13:09:19.921  INFO 4084 --- [main] c.b.c.s.implementation.PostServiceImpl   : Servicio 1
+2022-11-29 13:09:19.922  INFO 4084 --- [main] c.b.c.s.i.PostServiceImplDos             : Servicio 2
+2022-11-29 13:09:19.922  INFO 4084 --- [main] ication$$EnhancerBySpringCGLIB$$a48d029c : Desarrollo web
+2022-11-29 13:09:19.923  INFO 4084 --- [main] ication$$EnhancerBySpringCGLIB$$a48d029c : Desarrollo web Front-End
+2022-11-29 13:09:19.923  INFO 4084 --- [main] ication$$EnhancerBySpringCGLIB$$a48d029c : Desarrollo web Back-end
+2022-11-29 13:09:19.923  INFO 4084 --- [main] ication$$EnhancerBySpringCGLIB$$a48d029c : Desarrollo web UX UI
+2022-11-29 14:52:30.426  INFO 4084 --- [RMI TCP Connection(111)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-29 14:52:30.464  INFO 4084 --- [RMI TCP Connection(111)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-29 14:52:33.075  INFO 8432 --- [main] com.bytcode.core.CursoSprintApplication  : Starting CursoSprintApplication using Java 17.0.4.1 on DESKTOP-I3M3Q3E with PID 8432 (C:\Users\Steve\Documents\Spring Boot\CursoSprint\target\classes started by Steve in C:\Users\Steve\Documents\Spring Boot\CursoSprint)
+2022-11-29 14:52:33.080  INFO 8432 --- [main] com.bytcode.core.CursoSprintApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-29 14:52:34.398  INFO 8432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2022-11-29 14:52:34.420  INFO 8432 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-29 14:52:34.421  INFO 8432 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-29 14:52:34.596  INFO 8432 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-29 14:52:34.597  INFO 8432 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1447 ms
+2022-11-29 14:52:34.854  INFO 8432 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-11-29 14:52:35.128  INFO 8432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2022-11-29 14:52:35.150  INFO 8432 --- [main] com.bytcode.core.CursoSprintApplication  : Started CursoSprintApplication in 2.599 seconds (JVM running for 3.576)
+2022-11-29 14:52:35.153  INFO 8432 --- [main] c.b.c.s.implementation.PostServiceImpl   : Servicio 1
+2022-11-29 14:52:35.154  INFO 8432 --- [main] c.b.c.s.i.PostServiceImplDos             : Servicio 2
+2022-11-29 14:52:35.155  INFO 8432 --- [main] ication$$EnhancerBySpringCGLIB$$702db9e4 : Desarrollo web
+2022-11-29 14:52:35.155  INFO 8432 --- [main] ication$$EnhancerBySpringCGLIB$$702db9e4 : Desarrollo web Front-End
+2022-11-29 14:52:35.156  INFO 8432 --- [main] ication$$EnhancerBySpringCGLIB$$702db9e4 : Desarrollo web Back-end
+2022-11-29 14:52:35.156  INFO 8432 --- [main] ication$$EnhancerBySpringCGLIB$$702db9e4 : Desarrollo web UX UI
+2022-11-29 14:52:52.278  INFO 8432 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-29 14:52:52.317  INFO 8432 --- [RMI TCP Connection(8)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-29 14:52:54.773  INFO 1036 --- [main] com.bytcode.core.CursoSprintApplication  : Starting CursoSprintApplication using Java 17.0.4.1 on DESKTOP-I3M3Q3E with PID 1036 (C:\Users\Steve\Documents\Spring Boot\CursoSprint\target\classes started by Steve in C:\Users\Steve\Documents\Spring Boot\CursoSprint)
+2022-11-29 14:52:54.788  INFO 1036 --- [main] com.bytcode.core.CursoSprintApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-29 14:52:55.976  INFO 1036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2022-11-29 14:52:55.998  INFO 1036 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-29 14:52:55.999  INFO 1036 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-29 14:52:56.169  INFO 1036 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-29 14:52:56.170  INFO 1036 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1314 ms
+2022-11-29 14:52:56.489  INFO 1036 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-11-29 14:52:56.781  INFO 1036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2022-11-29 14:52:56.794  INFO 1036 --- [main] com.bytcode.core.CursoSprintApplication  : Started CursoSprintApplication in 2.603 seconds (JVM running for 3.578)
+2022-11-29 14:52:56.798  INFO 1036 --- [main] c.b.c.s.implementation.PostServiceImpl   : Servicio 1
+2022-11-29 14:52:56.799  INFO 1036 --- [main] c.b.c.s.i.PostServiceImplDos             : Servicio 2
+2022-11-29 14:52:56.799 ERROR 1036 --- [main] ication$$EnhancerBySpringCGLIB$$4912637d : java.lang.NullPointerException: El id esta nulo
+2022-11-29 15:20:57.795  INFO 1036 --- [http-nio-80-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-29 15:20:57.796  INFO 1036 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-11-29 15:20:57.797  INFO 1036 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-11-29 15:21:00.394 ERROR 1036 --- [http-nio-80-exec-7] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Ambiguous handler methods mapped for '/home/post': {public org.springframework.web.servlet.ModelAndView com.bytcode.core.controllers.ControllerBasic.getPostIndividuals(int), public org.springframework.web.servlet.ModelAndView com.bytcode.core.controllers.ControllerBasic.getPostIndividual(int)}] with root cause
+
+java.lang.IllegalStateException: Ambiguous handler methods mapped for '/home/post': {public org.springframework.web.servlet.ModelAndView com.bytcode.core.controllers.ControllerBasic.getPostIndividuals(int), public org.springframework.web.servlet.ModelAndView com.bytcode.core.controllers.ControllerBasic.getPostIndividual(int)}
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lookupHandlerMethod(AbstractHandlerMethodMapping.java:432) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:383) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping.getHandlerInternal(RequestMappingInfoHandlerMapping.java:125) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping.getHandlerInternal(RequestMappingInfoHandlerMapping.java:67) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:498) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1265) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1047) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:670) ~[tomcat-embed-core-9.0.68.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) ~[tomcat-embed-core-9.0.68.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2022-11-29 15:21:10.509 ERROR 1036 --- [http-nio-80-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Ambiguous handler methods mapped for '/home/post': {public org.springframework.web.servlet.ModelAndView com.bytcode.core.controllers.ControllerBasic.getPostIndividuals(int), public org.springframework.web.servlet.ModelAndView com.bytcode.core.controllers.ControllerBasic.getPostIndividual(int)}] with root cause
+
+java.lang.IllegalStateException: Ambiguous handler methods mapped for '/home/post': {public org.springframework.web.servlet.ModelAndView com.bytcode.core.controllers.ControllerBasic.getPostIndividuals(int), public org.springframework.web.servlet.ModelAndView com.bytcode.core.controllers.ControllerBasic.getPostIndividual(int)}
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lookupHandlerMethod(AbstractHandlerMethodMapping.java:432) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:383) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping.getHandlerInternal(RequestMappingInfoHandlerMapping.java:125) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping.getHandlerInternal(RequestMappingInfoHandlerMapping.java:67) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:498) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1265) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1047) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:670) ~[tomcat-embed-core-9.0.68.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.23.jar:5.3.23]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) ~[tomcat-embed-core-9.0.68.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.23.jar:5.3.23]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.68.jar:9.0.68]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2022-11-29 15:58:31.346  INFO 1036 --- [RMI TCP Connection(75)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-29 15:58:31.372  INFO 1036 --- [RMI TCP Connection(75)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-29 15:58:31.374  INFO 1036 --- [RMI TCP Connection(75)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-11-29 15:58:33.479  INFO 16836 --- [main] com.bytcode.core.CursoSprintApplication  : Starting CursoSprintApplication using Java 17.0.4.1 on DESKTOP-I3M3Q3E with PID 16836 (C:\Users\Steve\Documents\Spring Boot\CursoSprint\target\classes started by Steve in C:\Users\Steve\Documents\Spring Boot\CursoSprint)
+2022-11-29 15:58:33.483  INFO 16836 --- [main] com.bytcode.core.CursoSprintApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-29 15:58:34.466  INFO 16836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2022-11-29 15:58:34.480  INFO 16836 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-29 15:58:34.481  INFO 16836 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-29 15:58:34.616  INFO 16836 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-29 15:58:34.617  INFO 16836 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1082 ms
+2022-11-29 15:58:34.855  INFO 16836 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-11-29 15:58:35.048  INFO 16836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2022-11-29 15:58:35.058  INFO 16836 --- [main] com.bytcode.core.CursoSprintApplication  : Started CursoSprintApplication in 2.001 seconds (JVM running for 2.772)
+2022-11-29 15:58:35.060  INFO 16836 --- [main] c.b.c.s.implementation.PostServiceImpl   : Servicio 1
+2022-11-29 15:58:35.060  INFO 16836 --- [main] c.b.c.s.i.PostServiceImplDos             : Servicio 2
+2022-11-29 15:58:35.061  INFO 16836 --- [main] ication$$EnhancerBySpringCGLIB$$a59fcaca : Desarrollo web
+2022-11-29 15:58:35.061  INFO 16836 --- [main] ication$$EnhancerBySpringCGLIB$$a59fcaca : Desarrollo web Front-End
+2022-11-29 15:58:35.061  INFO 16836 --- [main] ication$$EnhancerBySpringCGLIB$$a59fcaca : Desarrollo web Back-end
+2022-11-29 15:58:35.061  INFO 16836 --- [main] ication$$EnhancerBySpringCGLIB$$a59fcaca : Desarrollo web UX UI
+2022-11-29 16:07:49.768  INFO 16836 --- [RMI TCP Connection(19)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-29 16:07:49.789  INFO 16836 --- [RMI TCP Connection(19)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-29 16:07:52.286  INFO 2416 --- [main] com.bytcode.core.CursoSprintApplication  : Starting CursoSprintApplication using Java 17.0.4.1 on DESKTOP-I3M3Q3E with PID 2416 (C:\Users\Steve\Documents\Spring Boot\CursoSprint\target\classes started by Steve in C:\Users\Steve\Documents\Spring Boot\CursoSprint)
+2022-11-29 16:07:52.290  INFO 2416 --- [main] com.bytcode.core.CursoSprintApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-29 16:07:53.245  INFO 2416 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2022-11-29 16:07:53.258  INFO 2416 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-29 16:07:53.258  INFO 2416 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-29 16:07:53.379  INFO 2416 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-29 16:07:53.380  INFO 2416 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1033 ms
+2022-11-29 16:07:53.614  INFO 2416 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-11-29 16:07:53.809  INFO 2416 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2022-11-29 16:07:53.819  INFO 2416 --- [main] com.bytcode.core.CursoSprintApplication  : Started CursoSprintApplication in 2.033 seconds (JVM running for 3.106)
+2022-11-29 16:07:53.822  INFO 2416 --- [main] c.b.c.s.implementation.PostServiceImpl   : Servicio 1
+2022-11-29 16:07:53.822  INFO 2416 --- [main] c.b.c.s.i.PostServiceImplDos             : Servicio 2
+2022-11-29 16:07:53.822  INFO 2416 --- [main] ication$$EnhancerBySpringCGLIB$$33f5f947 : Desarrollo web
+2022-11-29 16:07:53.823  INFO 2416 --- [main] ication$$EnhancerBySpringCGLIB$$33f5f947 : Desarrollo web Front-End
+2022-11-29 16:07:53.823  INFO 2416 --- [main] ication$$EnhancerBySpringCGLIB$$33f5f947 : Desarrollo web Back-end
+2022-11-29 16:07:53.823  INFO 2416 --- [main] ication$$EnhancerBySpringCGLIB$$33f5f947 : Desarrollo web UX UI
+2022-11-29 16:29:17.807  INFO 2416 --- [RMI TCP Connection(31)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-29 16:29:17.830  INFO 2416 --- [RMI TCP Connection(31)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
